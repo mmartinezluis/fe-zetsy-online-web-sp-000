@@ -18,3 +18,23 @@ body {
 }
 
 /* Write all remaining styles here */
+
+h1 {
+  margin: 0 0 5px;
+  color: red;
+  padding: 0px;
+  font-size: 5em;
+  
+}
+p {
+	
+}
+
+h1 + img {
+  border: 5px black solid;
+}
+
+footer {
+ text-align: right;
+}
+
